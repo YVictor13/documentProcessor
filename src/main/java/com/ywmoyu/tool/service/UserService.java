@@ -1,9 +1,9 @@
-package com.ywmoyu.tool.Service;
+package com.ywmoyu.tool.service;
 
 import org.springframework.stereotype.Service;
 
 @Service
-public class LoginService {
+public class UserService {
 
 
 }

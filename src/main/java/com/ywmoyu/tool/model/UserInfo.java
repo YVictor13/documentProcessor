@@ -1,4 +1,4 @@
-package com.ywmoyu.tool.Model;
+package com.ywmoyu.tool.model;
 
 import lombok.Data;
 
